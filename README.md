@@ -22,7 +22,7 @@
 - [Иерархическая структура работ в Word](docs/ISR_recipe_project.docx)
 - [ИСР в Markdown](docs/ISR_recipe_project.md)
 - [Плановые человеко-часы по ИСР](docs/WBS_hours.md)
-- [Диаграмма Ганта в Google Таблицах](https://docs.google.com/spreadsheets/d/1tCOh4DrPVt53--5MsZVsHvPMprjnmYbQAdOE7TCDxTw/edit?gid=1094928757#gid=1094928757)
+- [Диаграмма Ганта](docs/GANTT.md)
 - [Рабочий план до середины декабря](docs/PLAN_2026-11-05.md)
 - [Состояние проекта на 5 ноября](docs/STATUS_2026-11-05.md)
 - [Устав и границы проекта](docs/PROJECT_CHARTER.md)
